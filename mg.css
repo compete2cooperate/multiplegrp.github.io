@@ -1,0 +1,117 @@
+.t {
+	border-width: 0px; width: 100%;
+}
+
+
+.bgm {
+	background-image: url(/web/20180819120338im_/http://multiplegrp.com/images/bgm.gif); background-repeat: repeat-x; background-position: top left; background-color: #061E4A; border-bottom: #5B6779 1px solid;
+}
+
+.b	{
+	font-weight: bold;
+}
+
+.u 	{
+	text-decoration: underline;
+}
+
+
+
+
+#g {
+	z-index: 1; visibility: visible; position: absolute; top: 178px;
+}
+
+
+.font {
+	font-family: Verdana, Arial, Tahoma; font-size: 11px; color: #ABCADB; line-height: 16px;
+}
+
+
+.bottom1 {
+	background-image: url(/web/20180819120338im_/http://multiplegrp.com/images/bottom1.gif); background-repeat: repeat-x; background-position: top left; border-top: #B5BAC2 1px solid;
+}
+.bottom2 {
+	background-color: #031531;
+}
+
+.q1 {
+	border-top: #86C0D9 7px solid;
+}
+
+.home {
+	font-family: "Trebuchet Ms", Verdana, Arial, Tahoma; font-size: 12px; color: #061F4B; letter-spacing: 1pt;
+}
+.home a {
+	color: #061F4B; text-decoration: none;
+}
+
+.fbottom {
+	font-family: Tahoma, Verdana; font-size: 10px; color: #8C8C8C; letter-spacing: 1pt;
+}
+.fbottom a {
+	color: #646464; text-decoration: none;
+}
+
+.head {
+	font-family: "Arial Narrow", Verdana, Arial, Tahoma; font-size: 18px; color: #85A3BB; letter-spacing: 1pt; font-weight: bold;
+}
+.head a:link {
+	color: #85A3BB; text-decoration: none; border-bottom: #85A3BB 1px solid;
+}
+.head a:visited {
+	color: #85A3BB; text-decoration: none; border-bottom: #85A3BB 1px solid;
+}
+.head a:hover {
+	color: #85A3BB; text-decoration: none; border-bottom: #85A3BB 1px dashed;
+}
+
+.head1 {
+	font-family: "Arial Narrow", Verdana, Arial, Tahoma; font-size: 18px; color: #FFFFFF; letter-spacing: 1pt;
+}
+
+.ftt {
+font-family:verdana;
+font-size:11px;
+color:#ABCADB;
+}
+.fft p{
+font-family:verdana;
+font-size:11px;
+line-height:14px;
+color:#ABCADB;
+}
+.ftable td{
+font-family:verdana;
+font-size:10px;
+color:#ABCADB;
+line-height:10px;
+height:10px;
+}
+.ftable .ptab{
+font-family:verdana;
+font-size:10px;
+color:#ABCADB;
+line-height:13px;
+}
+/*
+     FILE ARCHIVED ON 12:03:38 Aug 19, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:35:43 Jun 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 251.252
+  exclusion.robots: 0.166
+  exclusion.robots.policy: 0.155
+  RedisCDXSource: 15.504
+  esindex: 0.013
+  LoadShardBlock: 206.175 (3)
+  PetaboxLoader3.datanode: 253.085 (5)
+  CDXLines.iter: 25.323 (3)
+  load_resource: 2300.075 (2)
+  PetaboxLoader3.resolve: 1346.366 (2)
+*/
